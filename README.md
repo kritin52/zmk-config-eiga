@@ -1,4 +1,4 @@
-# eiga's zmk-config
+# eiga's zmk-config 
 
 ### Table of contents
 - Branches
